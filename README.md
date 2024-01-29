@@ -1,2 +1,2 @@
-# numaray--s-yle
+# turkish-numbers
 Tool for memorizing Turkish numbers
